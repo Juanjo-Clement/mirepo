@@ -1,9 +1,7 @@
-Nueva York
-Tokio
-Nueva York
-Tokio
-París
+Berlín
 Londres
 Madrid
+París
 Roma
-Berlín
+Sevilla
+Tokio
